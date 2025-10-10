@@ -12,7 +12,7 @@ export default function Home() {
               CycleZLab: Building and Connecting the FIRST Community in China
             </h1>
             <p className="text-xl md:text-2xl mb-10 text-blue-100">
-              Inspired by the FunRobotics Network, we create content, resources, 
+              Inspired by the FunRobotics Network, we create content, resources,
               and experiences for FTC participants.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -44,7 +44,7 @@ export default function Home() {
           <p className="text-xl text-center text-gray-600 mb-12 max-w-3xl mx-auto">
             Supporting the FTC community through comprehensive coverage, education, and resources.
           </p>
-          
+
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
             {/* Competition Coverage */}
             <div className="bg-white p-6 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
@@ -99,7 +99,7 @@ export default function Home() {
           <h2 className="text-3xl md:text-4xl font-bold text-center mb-12 text-gray-900">
             Featured Content
           </h2>
-          
+
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
             {/* Latest Educational Video */}
             <div className="bg-gray-50 rounded-xl overflow-hidden shadow-lg">
@@ -153,8 +153,8 @@ export default function Home() {
               A Community, By The Community
             </h2>
             <p className="text-xl text-gray-600 mb-8 leading-relaxed">
-              CycleZLab belongs to all of its contributors. We're an open and collaborative 
-              project built by FTC students, coaches, and alumni who believe in sharing knowledge 
+              CycleZLab belongs to all of its contributors. We're an open and collaborative
+              project built by FTC students, coaches, and alumni who believe in sharing knowledge
               and supporting each other.
             </p>
             <Link
