@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# CycleZLab Website
+
+Official website for CycleZLab - Building and connecting the FIRST Tech Challenge community in China.
+
+## About
+
+CycleZLab creates content, resources, and experiences for FTC participants, inspired by the FunRobotics Network. We provide:
+
+- **Competition Coverage**: In-depth team interviews and high-quality live broadcasts
+- **Educational Content**: "Into The Sleep" series demystifying robotics math and physics
+- **Open-Source Hardware**: Competition-ready robot kits with full documentation
+- **Community Hub**: Discord server connecting teams across China
+
+## Tech Stack
+
+- **Framework**: Next.js 15.5.4 with App Router
+- **Styling**: Tailwind CSS v4
+- **Icons**: Lucide React
+- **Language**: TypeScript
 
 ## Getting Started
 
-First, run the development server:
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) to view the website.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+app/
+├── page.tsx              # Homepage
+├── about/page.tsx        # About Us page
+├── initiatives/page.tsx  # Our Initiatives page
+├── get-involved/page.tsx # Get Involved page
+├── policies/page.tsx     # Policies page
+└── components/
+    ├── Header.tsx        # Navigation header
+    └── Footer.tsx        # Site footer
+```
 
-## Learn More
+## Contributing
 
-To learn more about Next.js, take a look at the following resources:
+CycleZLab belongs to all of its contributors. To get involved:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Join our [Discord server](https://discord.gg/cyclezlab)
+2. Connect via WeChat (see Get Involved page)
+3. Check out our [GitHub](https://github.com/cyclezlab)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+All content is licensed under CC BY-SA 4.0. Code is licensed under MIT License.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **General**: contact@cyclezlab.org
+- **Privacy**: privacy@cyclezlab.org
+- **Events**: events@cyclezlab.org
+
+---
+
+Built with ❤️ by the FTC community in China
