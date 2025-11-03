@@ -1,5 +1,4 @@
 import { UserPlus, Users, Calendar, Github, MessageCircle, QrCode } from 'lucide-react';
-import Image from 'next/image';
 
 export default function GetInvolvedPage() {
     return (
@@ -31,8 +30,8 @@ export default function GetInvolvedPage() {
 
                         <div className="prose prose-lg max-w-none text-gray-600 mb-12">
                             <p className="text-xl leading-relaxed mb-6 text-center">
-                                CycleZLab is built by the community, for the community. Whether you're a student,
-                                coach, alumni, or FTC enthusiast, there's a place for you here. We welcome
+                                CycleZLab is built by the community, for the community. Whether you&apos;re a student,
+                                coach, alumni, or FTC enthusiast, there&apos;s a place for you here. We welcome
                                 contributors of all skill levels and backgrounds.
                             </p>
                         </div>
@@ -184,7 +183,7 @@ export default function GetInvolvedPage() {
                                 <h3 className="text-2xl font-bold mb-4 text-gray-900">Flexible Participation</h3>
                                 <p className="text-gray-600 mb-4">
                                     We understand that everyone has different commitments—school, competitions,
-                                    work, and life. That's why CycleZLab is designed to be flexible:
+                                    work, and life. That&apos;s why CycleZLab is designed to be flexible:
                                 </p>
                                 <ul className="space-y-3 text-gray-700">
                                     <li className="flex items-start">
@@ -197,7 +196,7 @@ export default function GetInvolvedPage() {
                                     </li>
                                     <li className="flex items-start">
                                         <span className="text-blue-600 mr-3 font-bold">3.</span>
-                                        <span><strong>Take breaks:</strong> Step away when you need to, come back when you're ready</span>
+                                        <span><strong>Take breaks:</strong> Step away when you need to, come back when you&apos;re ready</span>
                                     </li>
                                     <li className="flex items-start">
                                         <span className="text-blue-600 mr-3 font-bold">4.</span>
@@ -242,7 +241,7 @@ export default function GetInvolvedPage() {
                         </div>
 
                         <p className="text-gray-600 mb-8">
-                            Can't scan? You can also reach us through:
+                            Can&apos;t scan? You can also reach us through:
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 justify-center">
@@ -274,7 +273,7 @@ export default function GetInvolvedPage() {
                     </h2>
                     <p className="text-xl text-blue-100 mb-8">
                         Whether you contribute code, content, ideas, or just spread the word—
-                        you're helping build something meaningful for the entire FTC community in China.
+                        you&apos;re helping build something meaningful for the entire FTC community in China.
                     </p>
                     <p className="text-lg text-blue-200">
                         CycleZLab belongs to all of its contributors. That includes you.

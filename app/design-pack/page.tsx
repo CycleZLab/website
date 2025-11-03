@@ -96,7 +96,7 @@ export default function DesignPack() {
               <h3 className="text-xl font-bold mb-3 text-gray-900">Community Support</h3>
               <p className="text-gray-600">
                 Get help from the community on our Discord server. Share your builds
-                and learn from other teams' experiences.
+                and learn from other teams&apos; experiences.
               </p>
             </div>
           </div>

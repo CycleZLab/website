@@ -213,7 +213,7 @@ export default function PoliciesPage() {
                                     do not favor any specific team or organization in our content.
                                 </li>
                                 <li>
-                                    <strong>FIRST Values:</strong> All activities align with FIRST's Core Values,
+                                    <strong>FIRST Values:</strong> All activities align with FIRST&apos;s Core Values,
                                     including Gracious Professionalism and Coopertition.
                                 </li>
                                 <li>
@@ -263,7 +263,7 @@ export default function PoliciesPage() {
                     <div className="bg-white p-8 rounded-xl shadow-lg text-center">
                         <p className="text-lg text-gray-700 mb-6">
                             If you have questions, concerns, or feedback about any of our policies,
-                            we're here to help. Transparency and accountability are core to our mission.
+                            we&apos;re here to help. Transparency and accountability are core to our mission.
                         </p>
 
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">

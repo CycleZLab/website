@@ -60,7 +60,7 @@ export default function Members() {
             </h1>
             <p className="text-xl md:text-2xl text-orange-100">
               Meet the FTC teams that are part of the CycleZLab community.
-              Together, we're building the future of robotics in China.
+              Together, we&apos;re building the future of robotics in China.
             </p>
           </div>
         </div>
