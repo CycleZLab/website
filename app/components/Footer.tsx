@@ -30,13 +30,23 @@ export default function Footer() {
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/about" className="hover:text-blue-400 transition-colors">
-                                    About Us
+                                <Link href="/ftc-live-scout" className="hover:text-blue-400 transition-colors">
+                                    FTC Live Scout
                                 </Link>
                             </li>
                             <li>
-                                <Link href="/initiatives" className="hover:text-blue-400 transition-colors">
-                                    Initiatives
+                                <Link href="/competition-archive" className="hover:text-blue-400 transition-colors">
+                                    Archive
+                                </Link>
+                            </li>
+                            <li>
+                                <Link href="/design-pack" className="hover:text-blue-400 transition-colors">
+                                    Design Pack
+                                </Link>
+                            </li>
+                            <li>
+                                <Link href="/members" className="hover:text-blue-400 transition-colors">
+                                    Members
                                 </Link>
                             </li>
                             <li>

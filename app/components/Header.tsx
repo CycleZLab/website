@@ -9,9 +9,12 @@ export default function Header() {
 
     const navLinks = [
         { href: '/', label: 'Home' },
-        { href: '/about', label: 'About Us' },
-        { href: '/initiatives', label: 'Initiatives' },
+        { href: '/ftc-live-scout', label: 'FTC Live Scout' },
+        { href: '/competition-archive', label: 'Archive' },
+        { href: '/design-pack', label: 'Design Pack' },
+        { href: '/members', label: 'Members' },
         { href: '/get-involved', label: 'Get Involved' },
+        { href: '/policies', label: 'Policies' },
     ];
 
     return (
